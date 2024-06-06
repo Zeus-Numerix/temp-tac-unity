@@ -1,0 +1,16 @@
+{
+    "num": 1,
+    "case_name": "case_1",
+    "mesh_type": "gltf",
+    "upper": {
+        "type": "upper",
+        // "url": "http://127.0.0.1:70/case_1/case_01_upper_setup_01.glb"
+        "url": "http://127.0.0.1:70/case_4/case_4_upper_01.glb"
+    },
+    "lower": {
+        "type": "lower",
+        // "url": "http://127.0.0.1:70/case_1/case_01_lower_setup_01.glb"
+        "url": "http://127.0.0.1:70/case_4/case_4_lower_01.glb"
+    },
+    "loaded": false
+}

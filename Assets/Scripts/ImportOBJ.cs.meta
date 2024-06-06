@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 571d3860f657bc6359195246de710c6d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mat_gum: {fileID: 2100000, guid: a26996bc48d49d3778019966a33f4112, type: 2}
+  - mat_tooth: {fileID: 2100000, guid: bb474d40fe62758239be30434063b29b, type: 2}
+  - mat_attachment: {fileID: 2100000, guid: db4e03c8bb0ee170ea9cc38587b98035, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
